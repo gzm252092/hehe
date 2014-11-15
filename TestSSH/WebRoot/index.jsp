@@ -25,7 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     	</select>
     	<table>
     		<thead>
-    			<tr><th>ID</th><th>NAME</th><th>CLASS</th></tr>
+    			<tr><th>ID</th><th>HEHE</th><th>CLASS</th></tr>
     		</thead>
     		<tbody id='students'>
     			
